@@ -22,7 +22,7 @@ else{
 
 }}
 
-else {return sum = "ERROR";}
+else return sum = "ERROR";
 
 return sum;
 };
